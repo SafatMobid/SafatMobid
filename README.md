@@ -3,8 +3,8 @@
 - 📫 I can be reached by email @ safatmobid@gmail.com
 
 ++++++++ ORDER OF PROJECT +++++++++++
-1. GPU Checker - Completed mid-April 2025
-2. Log Monitor - Completed mid-May 2025
-3. Turtle Graphics Learning Repository - Completed late May 2025
-4. Spotify Web Scraper - Completed June 2025
-5. Productivity Tool
+1. [GPU Checker](https://github.com/SafatMobid/GPU_Checker) - Completed mid-April 2025
+2. [Log Monitor](https://github.com/SafatMobid/Log_monitor) - Completed mid-May 2025
+3. [Turtle Graphics Learning Repository](https://github.com/SafatMobid/Turtle_Graphics_Learning_Repository)- Completed late May 2025
+4. [Spotify API Fetcher](https://github.com/SafatMobid/spotify_Api_Fetcher) - Completed June 2025
+5. [Productivity Tool](https://github.com/SafatMobid/Productivity_Tool)
