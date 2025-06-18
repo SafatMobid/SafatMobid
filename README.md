@@ -8,3 +8,11 @@
 3. [Turtle Graphics Learning Repository](https://github.com/SafatMobid/Turtle_Graphics_Learning_Repository)- Completed late May 2025
 4. [Spotify API Fetcher](https://github.com/SafatMobid/spotify_Api_Fetcher) - Completed June 2025
 5. [DeskTop Productivity Tool](https://github.com/SafatMobid/Productivity_Tool) - Ongoing
+
+
+
+All Rights Reserved
+
+This software is provided for reference only. No license is granted to use, copy, modify, or distribute this software without explicit written permission from the author.
+
+© 2025 Safat M. Contact safatmobid@gmail.com for licensing inquiries.
